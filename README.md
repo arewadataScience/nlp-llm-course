@@ -48,30 +48,9 @@ Through hands-on work with real-world datasets, students will design NLP pipelin
 - Build your first classifier
 
 
-## Course Project
+## Project
 
-
-The course project will be aligned with [SemEval 2026 Task 9: Detecting Multilingual, Multicultural and Multievent Online Polarization](https://polar-semeval.github.io). This shared task includes **three subtasks**, and **each student is required to participate in all three** as part of the project.
-
-### Project Requirements  
-- **Individual Work:** Each student will work independently on the entire task.  
-- **System Development:** You are expected to design, implement, and evaluate your own model(s) for all three subtasks.  
-- **System Description Paper:** You must write a **minimum 4-page system description paper** detailing your methodology, experiments, and results.  
-- **Evaluation and Ranking:** Students will be ranked based on the **accuracy** of their submitted systems in the competition.
-
-After the course, students may continue refining their system and paper. You are encouraged to further improve your work and submit the final version to the SemEval Workshop, which will be co-located with ACL2025 in San Diego, USA. 
-
-Follow the following guidelines for writting SemEval system papers: 
-
- 1. System paper guide: https://semeval.github.io/system-paper-template.html
- 2. Writing a System description Paper: https://github.com/nedjmaou/Writing_a_task_description_paper
- 3. Latex template to use: https://github.com/acl-org/acl-style-files
-
-Below are sample papers for previous shared task: 
-
-  1. [AILS-NTUA at SemEval-2025 Task 4: Parameter-Efficient Unlearning for Large Language Models using Data Chunking](https://aclanthology.org/2025.semeval-1.184.pdf)
-  2. [AAdaM at SemEval-2024 Task 1: Augmentation and Adaptation for Multilingual Semantic Textual Relatedness](https://aclanthology.org/2024.semeval-1.114.pdf)
-  3. [DAMO-NLP at SemEval-2023 Task 2: A Unified Retrieval-augmented System for Multilingual Named Entity Recognition](https://aclanthology.org/2023.semeval-1.277.pdf)
+ Each student will conduct a project. More detalais coming soon.
 
 #  Resources  
 
