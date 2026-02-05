@@ -30,24 +30,6 @@ Through hands-on work with real-world datasets, students will design NLP pipelin
 | **11**  | Benchmarking and Evaluation | [Slide](https://github.com/shmuhammadd/aims-nlp-course/blob/main/slides/08_NLP_Lecture_1.pdf) | 1. [Holistic Evaluation of Language Models (HELM)](https://arxiv.org/pdf/2211.09110)   |
 
 
-## Practical Sessions
-
-#### **Lecture 2: N-grams and Language Modelling**
-- Practical: Build Unigram/Bigram Models · Compute Probabilities · Perplexity  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shmuhammadd/aims-nlp-course/blob/main/practicals/ngram_language_models_class.ipynb)
-- Exercise: Practice and build N-Gram models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shmuhammadd/aims-nlp-course/blob/main/practicals/ngram_practice_huggingface.ipynb)
-
-
-#### **Lecture 3: Introduction to PyTorch**
-- Practical: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shmuhammadd/aims-nlp-course/blob/main/practicals/ngram_language_models_class.ipynb)
-- What PyTorch is and why it's popular
-- Tensors - the fundamental data structure
-- Automatic differentiation (autograd)
-- Building neural networks
-- Training models with a typical training loop
-- Working with GPUs
-- Build your first classifier
-
-
 ## Project
 
  Each student will conduct a project. More detalais coming soon.
