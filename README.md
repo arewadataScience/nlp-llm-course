@@ -34,6 +34,10 @@ Through hands-on work with real-world datasets, students will design NLP pipelin
 
  Each student will conduct a project. More detalais coming soon.
 
+ ## Mentors
+
+ 
+
 #  Resources  
 
 1.  **Speech and Language Processing** – Jurafsky & Martin ([Online Draft](https://web.stanford.edu/~jurafsky/slp3/))  
