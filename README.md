@@ -36,7 +36,7 @@ For the latest course schedule updates and important announcements, please join 
 
 ## Project
 
- Each student will conduct a project. More detalais coming soon.
+ Each student will conduct a project. More details coming soon.
 
  ## Mentors
 
